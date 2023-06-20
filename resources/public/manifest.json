@@ -1,0 +1,32 @@
+{
+  "short_name": "Short Name",
+  "name": "Default App Name",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+    	"src": "logo512-maskable.png",
+    	"type": "image/png",
+    	"sizes": "512x512",
+    	"purpose": "maskable"
+ 		}
+  ],
+  "id": "demo.app.com",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
